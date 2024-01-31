@@ -24,7 +24,7 @@ const Header = () => {
 
             {/* header button */}
             <div>
-              <button>Login</button>
+              <button style={{fontWeight : 'bold '}}>Log in</button>
               <button className='header__button'>Sign up</button>
             </div>
           </header>
